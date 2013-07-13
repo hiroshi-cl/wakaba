@@ -37,3 +37,6 @@
 | 2009/11/08 | 地区予選         | wakaba::a->[Bug] | 7 / 1004 | (7tie/8) | 大学内3位 |
 | 2010/06/27 | 模擬国内予選 | wakabaVerPI | 4 / 21138 | 13 | |
 | 2010/07/02 | 国内予選         | wakabaVerPI | 4 / 17979 | 12 | JavaChallenge準々決勝敗退 |
+
+## ページ
+https://github.com/hiroshi-cl/wakaba/wiki
